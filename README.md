@@ -49,7 +49,10 @@ contextualised.
 Success Metrics
 Classification
 accuracy
-> 98% on CIC-IDS-2017 held-out test set
+98% on CIC-IDS-2017 held-out test set
 False positive rate < 1% on benign traffic — critical for operational usability
 Inference speed < 1 ms per flow on CPU — real-time at 1 Gbps line rate
 Explainability SHAP explanations for 100% of alerts — zero black-box outputs
+
+
+Download the dataset here :- https://www.unb.ca/cic/datasets/ids-2017.html
